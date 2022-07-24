@@ -1,0 +1,179 @@
+body{
+	color: #D92344;
+	font-size: 100%;
+	background: #05A822;
+}
+div.contenedor{
+	background: url('../img/food.png') #ffc557;
+	padding: 20px;
+}
+.header-top{
+	margin-bottom: 20px;
+}
+header img.logo{
+	width: 100%;
+	max-width: 200px;
+}
+span.delivery{
+	color: black;
+	font-weight: bold;
+	float: right;
+}
+i.icon-delivery{
+	font-size: 24px;
+}
+nav{
+	float: right;
+	margin-top: -120px;
+	margin-right: -20px;
+}
+nav a{
+	text-transform: uppercase;
+	font-weight: 500;
+}
+nav a:hover{
+	color: #212121;
+	background: rgb(255, 255, 255, .5);
+	transition: .5s all;
+	border-bottom: 1px solid #8a211d;
+}
+
+span.slogan{
+	border: 2px dashed #8a211d;
+	padding: 10px;
+	font-size: .8em;
+}
+h1,h2,h3{
+	font-family: 'Jomhuria', cursive;
+	font-size: 14em;
+	margin-top: -40px;
+	text-shadow: 5px 4px #fde7c2;
+}
+h2{
+	margin-top: 0;
+	text-shadow: none;
+	font-size: 6em;
+}
+h3{
+	font-size: 7em;
+	margin-top: -129px;
+}
+h4{
+	font-family: 'Jomhuria', cursive;
+	font-size: 3em;
+}
+article.mensaje{
+	margin-top: 5%;
+}
+article.imagenDestacada img{
+	width: 100%;
+	max-width: 545px;
+	margin-top: -70px;
+}
+article.popular{
+	margin-top: 30px;
+	background: url('../img/image1.jpg');
+	width: 100%;
+	max-width: 596px;
+	height: 387px;
+	color: #fff;
+	padding: 30px;
+	border-radius: .5em;
+}
+span.popular-text{
+	font-weight: bold;
+}
+h2.popular-title{
+	font-size: 2.8em;
+}
+aside div.taste{
+	margin-top: 30px;
+	background: url('../img/image2.jpg');
+	width: 100%;
+	max-width: 579px;
+	height: 184px;
+	border-radius: .5em;
+	color: #fff;
+	padding: 30px;
+}
+aside div.chili{
+	background: url('../img/image3.jpg');
+	height: 176px;
+}
+article.description{
+	margin-top: 30px;
+	text-align: center;
+}
+article.description a{
+	color: #3c2513;
+	font-weight: bold;
+}
+p.p-description{
+	margin-top: -30px;
+}
+section.burro-destacada{
+	margin-top: 30px;
+}
+section.burro-destacada article .card{
+	border: 0;
+	text-align: center;
+}
+.card img{
+	width: 100%;
+	max-width: 300px;
+	margin-left: 30px;
+}
+.card a{
+	font-weight: bold;
+}
+section.event{
+	background: white;
+	margin-top: 60px;
+	box-shadow: 26px 29px 60px #F5F5F5;
+}
+.discover{
+	padding: 30px;
+}
+.form{
+	margin-top: 60px;
+	text-align: center;
+}
+footer{
+	background: url('../img/background.png');
+	width: 100%;
+	height: 500px;
+	margin-top: 60px;
+	padding: 60px;
+	color: white;
+}
+footer p{
+	margin-top: 20px;
+}
+footer img.logo{
+	width: 100%;
+	max-width: 120px;
+}
+.data{
+	margin-top: 200px;
+	padding-left: 143px;
+}
+span.footer-data{
+	display: block;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+.copy{
+	margin-top: 100px;
+}
+.redes{
+	display: flex;
+	float: right;
+}
+.redes i{
+	padding: 5px;
+}
+.evento{
+	width: 100%;
+	max-width: 659px;
+	padding: 10px;
+}
